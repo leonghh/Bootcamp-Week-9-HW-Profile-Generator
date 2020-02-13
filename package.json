@@ -1,0 +1,26 @@
+{
+  "name": "week-9-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonghh/-Week-9-HW.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonghh/-Week-9-HW/issues"
+  },
+  "homepage": "https://github.com/leonghh/-Week-9-HW#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "electron": "^5.0.12",
+    "electron-html-to": "^2.6.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4"
+  }
+}
